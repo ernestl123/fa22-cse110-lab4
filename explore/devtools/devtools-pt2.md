@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 are both strings, so calling num1+num2 would create a string instead of the numeric sum of these two variables.
+2. I would fix it by casting the num1 and num2 variables to Numbers+
